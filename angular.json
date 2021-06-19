@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mycash"
+    }
+  },
+  "defaultProject": "mycash",
+  "cli": {
+    "analytics": "52e84e94-3590-42f4-83b7-ad55b9b0bd87"
+  }
 }
